@@ -1,0 +1,234 @@
+[
+  {
+    "original_title": "Semiconductors",
+    "url": "https://www.digitimes.com/topic/semiconductors/",
+    "extracted_company": "N/A",
+    "primary_country": "Global",
+    "technology_sector": "Semiconductors",
+    "risk_level": "High"
+  },
+  {
+    "original_title": "Sustainability",
+    "url": "https://www.digitimes.com/topic/sustainability/",
+    "extracted_company": "None",
+    "primary_country": "Global",
+    "technology_sector": "Environmental Tech",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "Samsung could lead HBM market in 2027 as HBM4 prices may rise 2.5 timesTomorrow's Headlines4h 18min ago",
+    "url": "https://www.digitimes.comjavascript:void(0)",
+    "extracted_company": "Samsung",
+    "primary_country": "South Korea",
+    "technology_sector": "Memory and Storage",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "SK Hynix fluorine leaks trigger safety inspections at 25 South Korean chip plants",
+    "url": "https://www.digitimes.com/news/a20260626PD222.html?chid=10",
+    "extracted_company": "SK Hynix",
+    "primary_country": "South Korea",
+    "technology_sector": "Semiconductor",
+    "risk_level": "High"
+  },
+  {
+    "original_title": "Samsung's reported US$648 billion plan shifts focus to South Korea's chip belt",
+    "url": "https://www.digitimes.com/news/a20260626VL207.html?chid=10",
+    "extracted_company": "Samsung",
+    "primary_country": "South Korea",
+    "technology_sector": "Semiconductors",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "Japan puts JPY101.6 trillion AI chip push at heart of JPY370 trillion growth roadmap",
+    "url": "https://www.digitimes.com/news/a20260625VL213.html?chid=10",
+    "extracted_company": "Japan Government",
+    "primary_country": "Japan",
+    "technology_sector": "Artificial Intelligence",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "Z.ai's HK$1tn rally tests China AI boom: model leap or market mirage?",
+    "url": "https://www.digitimes.com/news/a20260626VL201.html?chid=10",
+    "extracted_company": "Z.ai",
+    "primary_country": "China",
+    "technology_sector": "Artificial Intelligence",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "Fuji Electric-linked arrests expose rare earth compliance risks for Japanese tech firms in China",
+    "url": "https://www.digitimes.com/news/a20260625PD232.html?chid=10",
+    "extracted_company": "Fuji Electric",
+    "primary_country": "China",
+    "technology_sector": "Rare Earth",
+    "risk_level": "High"
+  },
+  {
+    "original_title": "Amazon raises India bet to US$48 billion, adds US$13 billion for AI and cloud",
+    "url": "https://www.digitimes.com/news/a20260626VL200.html?chid=10",
+    "extracted_company": "Amazon",
+    "primary_country": "India",
+    "technology_sector": "Cloud and Artificial Intelligence",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "CXMT listing signals acceleration of China's memory self-sufficiency strategy amid global tech decoupling",
+    "url": "https://www.digitimes.com/news/a20260624VL210.html?chid=10",
+    "extracted_company": "CXMT",
+    "primary_country": "China",
+    "technology_sector": "Semiconductor Memory",
+    "risk_level": "High"
+  },
+  {
+    "original_title": "SK Siltron to bring new 300mm wafer capacity online as AI demand lifts shipments",
+    "url": "https://www.digitimes.com/news/a20260624VL221.html?chid=10",
+    "extracted_company": "SK Siltron",
+    "primary_country": "South Korea",
+    "technology_sector": "Semiconductor",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "GlobalFoundries expands Singapore role as it targets physical AI hardware wave",
+    "url": "https://www.digitimes.com/news/a20260625VL205.html?chid=10",
+    "extracted_company": "GlobalFoundries",
+    "primary_country": "Singapore",
+    "technology_sector": "Artificial Intelligence Hardware",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "Analysis: Sidelined by Nvidia's Asia tour, Japan bets on Foxconn-Sharp for AI relevance",
+    "url": "https://www.digitimes.com/news/a20260625PD218.html?chid=10",
+    "extracted_company": "Foxconn-Sharp",
+    "primary_country": "Japan",
+    "technology_sector": "Artificial Intelligence",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "China power semiconductor makers raise prices as AI and vehicle demand grows",
+    "url": "https://www.digitimes.com/news/a20260625PD210.html?chid=10",
+    "extracted_company": "Chinese power semiconductor makers",
+    "primary_country": "China",
+    "technology_sector": "Semiconductors",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "Altos and FPT sign MOU to scale enterprise AI and HPC across Asia-Pacific",
+    "url": "https://www.digitimes.com/news/a20260625PD203.html?chid=10",
+    "extracted_company": "Altos and FPT",
+    "primary_country": "Asia-Pacific",
+    "technology_sector": "Artificial Intelligence and High-Performance Computing",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "Samsung chairman reviews HBM4 supply as revenue tops US$1 billion",
+    "url": "https://www.digitimes.com/news/a20260624VL220.html?chid=10",
+    "extracted_company": "Samsung",
+    "primary_country": "South Korea",
+    "technology_sector": "Semiconductor",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "Kioxia sees Apple fuel NAND memory supercycle, sets sights on US market",
+    "url": "https://www.digitimes.com/news/a20260625VL212.html?chid=10",
+    "extracted_company": "Kioxia",
+    "primary_country": "United States",
+    "technology_sector": "NAND memory",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "China specialty foundry Hua Hong Grace rides 40nm low-power process and Wuxi 12-inch ramp",
+    "url": "https://www.digitimes.com/news/a20260624VL208.html?chid=10",
+    "extracted_company": "Hua Hong Grace",
+    "primary_country": "China",
+    "technology_sector": "Semiconductor Manufacturing",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "ADATA explores Thailand role in AI computing expansion",
+    "url": "https://www.digitimes.com/news/a20260624PD227.html?chid=10",
+    "extracted_company": "ADATA",
+    "primary_country": "Thailand",
+    "technology_sector": "AI Computing",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "Jun 1, 08:00LITEON Showcases AI at COMPUTEX Panel Featuring NVIDIA, Infineon, GIGABYTE",
+    "url": "https://www.digitimes.com/news/a20260530PR200.html?chid=9",
+    "extracted_company": "LITEON",
+    "primary_country": "Taiwan",
+    "technology_sector": "Artificial Intelligence",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "Friday 29 May 2026Datotek Introduces AI PSSD Sustainable Storage Solutions at COMPUTEX 2026",
+    "url": "https://www.digitimes.com/news/a20260528PR200.html?chid=9",
+    "extracted_company": "Datotek",
+    "primary_country": "Taiwan",
+    "technology_sector": "Artificial Intelligence and Storage",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "Samsung Foundry turns to 5nm, 8nm orders as 2nm comeback takes shape",
+    "url": "https://www.digitimes.com/news/a20260605VL203/samsung-2nm-samsung-foundry-5nm-tesla.html",
+    "extracted_company": "Samsung",
+    "primary_country": "South Korea",
+    "technology_sector": "Semiconductor Manufacturing",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "Intel deepens ties with Taiwan's chip supply chain as October talks expand",
+    "url": "https://www.digitimes.com/news/a20260623PD215/intel-12nm-supply-chain-taiwan-2026.html",
+    "extracted_company": "Intel",
+    "primary_country": "Taiwan",
+    "technology_sector": "Semiconductors",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "MediaTek issues official price hike notice, products facing supply constraints likely to increase first",
+    "url": "https://www.digitimes.com/news/a20260622PD235/mediatek-ic-design-price-chips.html",
+    "extracted_company": "MediaTek",
+    "primary_country": "Global",
+    "technology_sector": "Semiconductors",
+    "risk_level": "High"
+  },
+  {
+    "original_title": "Taiwan's IC design sector posts sharpest gains in years; May data hints at further acceleration into 2H26",
+    "url": "https://www.digitimes.com/news/a20260615VL203/ic-design-revenue-growth-taiwan-monthly-tracker.html",
+    "extracted_company": "Taiwan's IC design sector",
+    "primary_country": "Taiwan",
+    "technology_sector": "Semiconductor",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "Europe aggressively pursues non-red supply chains; Thunder Tiger showcases unmanned combat systems in Poland",
+    "url": "https://www.digitimes.com/news/a20260625PD233/thunder-tiger-europe-usa-drone-strike.html",
+    "extracted_company": "Thunder Tiger",
+    "primary_country": "Poland",
+    "technology_sector": "Unmanned Combat Systems",
+    "risk_level": "Medium"
+  },
+  {
+    "original_title": "Tungsten shortage spreads from raw material to chip manufacturing, Japan warns",
+    "url": "https://www.digitimes.com/news/a20260625PD209/recycling-capacity-production-localization-worldwide.html",
+    "extracted_company": "None",
+    "primary_country": "Japan",
+    "technology_sector": "Semiconductor",
+    "risk_level": "High"
+  },
+  {
+    "original_title": "CXMT listing signals acceleration of China's memory self-sufficiency strategy amid global tech decoupling",
+    "url": "https://www.digitimes.com/news/a20260624VL210/cxmt-self-sufficiency-ipo-2026-semiconductor-industry.html",
+    "extracted_company": "CXMT",
+    "primary_country": "China",
+    "technology_sector": "Semiconductor Memory",
+    "risk_level": "High"
+  },
+  {
+    "original_title": "Samsung's reported US$648 billion plan shifts focus to South Korea's chip belt",
+    "url": "https://www.digitimes.com/news/a20260626VL207/samsung-south-korea-data-investment-production-region.html",
+    "extracted_company": "Samsung",
+    "primary_country": "South Korea",
+    "technology_sector": "Semiconductors",
+    "risk_level": "Medium"
+  }
+]
