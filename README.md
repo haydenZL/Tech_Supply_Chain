@@ -12,12 +12,12 @@ A data engineering pipeline that scrapes technology supply chain headlines, uses
 ---
 
 ## Tech Stack
-Language: Python
-Data Sources: Beautiful Soup 4/ Requests
-Inference Engine: Llama -3.3-70b-versatile (Groq Cloud Client API)
-Environment Management: Python-Dotenv/OS System Management
-Data Manipulation: Pandas/ JSON Core Libraries
-Visulisation Layer: Streamlit/Folium Web Maps/Streamlit-Folium
+1. Language: Python
+2. Data Sources: Beautiful Soup 4/ Requests
+3. Inference Engine: Llama -3.3-70b-versatile (Groq Cloud Client API)
+4. Environment Management: Python-Dotenv/OS System Management
+5. Data Manipulation: Pandas/ JSON Core Libraries
+6. Visulisation Layer: Streamlit/Folium Web Maps/Streamlit-Folium
 
 ---
 
